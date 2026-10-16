@@ -42,8 +42,4 @@ PyJWT[crypto]>=2.8           # verifies Supabase access tokens (HS256)
 streamlit>=1.32
 requests>=2.31
 supabase>=2.4                # frontend auth client (email/password + OAuth)
-#LMrHzAATM42y1o9V   Supabase database password
-# Supabase login email : caseg21136@aminavin.com
-# Supabase login password : Qwert@423
-# To run the backend : uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
-# Torun the frontend : streamlit run frontend/streamlit_app.py                                  
+                                
